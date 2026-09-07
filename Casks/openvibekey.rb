@@ -8,7 +8,7 @@ cask "openvibekey" do
   homepage "https://github.com/palaemonboy/OpenVibeKey"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Open VibeKey.app"
 end
