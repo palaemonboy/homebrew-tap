@@ -1,6 +1,6 @@
 cask "openvibekey" do
-  version "0.1.2"
-  sha256 "9b66782ab85eab9e3f49b157a7e038177a9b43feaec225a48fbfbd5b41ca2728"
+  version "0.1.3"
+  sha256 "0e882d937177b258050556cb1437fa506e9ed35933685dcda075d8d439418f04"
 
   url "https://github.com/palaemonboy/OpenVibeKey/releases/download/v#{version}/OpenVibeKey-#{version}.zip"
   name "Open VibeKey"
